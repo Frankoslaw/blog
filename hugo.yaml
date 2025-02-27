@@ -3,7 +3,6 @@ languageCode: en-us
 title: Frankoslaw's blog
 description: Blog about my personal projects and reshearch.
 theme: ["PaperMod"]
-publishDir: "docs"
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
