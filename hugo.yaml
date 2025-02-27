@@ -1,3 +1,69 @@
-baseURL: https://example.org/
+baseURL: https://blog.frankoslaw.top/
 languageCode: en-us
-title: My New Hugo Site
+title: Frankoslaw's blog
+description: Blog about my personal projects and reshearch.
+theme: ["PaperMod"]
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
+mainsections: ["posts"]
+
+minify:
+  disableXML: true
+  # minifyOutput: true
+
+params:
+  env: production 
+  description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
+  author: Franciszek Łopuszański
+
+  defaultTheme: auto
+  # disableThemeToggle: true
+  ShowShareButtons: true
+  ShowReadingTime: true
+  # disableSpecial1stPost: true
+  displayFullLangName: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  # ShowRssButtonInSectionTermList: true
+  ShowAllPagesInArchive: true
+  ShowPageNums: true
+  # ShowToc: true
+  # comments: false
+  # images: ["images/papermod-cover.png"]
+
+  profileMode:
+    enabled: false
+    title: PaperMod
+    imageUrl: "#"
+    imageTitle: my image
+    # imageWidth: 120
+    # imageHeight: 120
+
+  homeInfoParams:
+    Title: "Frankoslaw's blog"
+    Content: >
+      👋 Welcome to my blog page where I intent on documenting weird and interesting projects I have worked on over past few years. Many of them wee not aimed at being shared or practical but rather served as fun adventures at learning something. If you have any questions feel free to reach out to me over on discord or gmail I open to answaring questions.
+
+  socialIcons:
+    - name: github
+      title: View Source on Github
+      url: "https://github.com/Frankoslaw/"
+  # analytics:
+  #     google:
+  #         SiteVerificationTag: "XYZabc"
+  assets:
+    disableHLJS: true
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
