@@ -7,7 +7,7 @@ theme: ["PaperMod"]
 enableInlineShortcodes: true
 enableRobotsTXT: true
 buildDrafts: false
-bui`ldFuture: false
+buildFuture: false
 buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
@@ -23,28 +23,16 @@ params:
   author: Franciszek Łopuszański
 
   defaultTheme: auto
-  # disableThemeToggle: true
   ShowShareButtons: true
   ShowReadingTime: true
-  # disableSpecial1stPost: true
   displayFullLangName: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
-  # ShowRssButtonInSectionTermList: true
   ShowAllPagesInArchive: true
   ShowPageNums: true
-  # ShowToc: true
-  # comments: false
-  # images: ["images/papermod-cover.png"]
-
-  profileMode:
-    enabled: false
-    title: PaperMod
-    imageUrl: "#"
-    imageTitle: my image
-    # imageWidth: 120
-    # imageHeight: 120
+  comments: true
+  images: ["https://cdn.discordapp.com/avatars/622801236340768775/24c2f128fe9945daf775f6638297b3d1.png?size=1024"]
 
   homeInfoParams:
     Title: "Frankoslaw's blog"
@@ -53,8 +41,11 @@ params:
 
   socialIcons:
     - name: github
-      title: View Source on Github
       url: "https://github.com/Frankoslaw/"
+    - name: linkedin
+    - name: discord
+    - name: youtube
+    # - name: kofi
   # analytics:
   #     google:
   #         SiteVerificationTag: "XYZabc"
