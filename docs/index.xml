@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Frankoslaw&#39;s blog</title>
+    <link>https://blog.frankoslaw.top/</link>
+    <description>Recent content on Frankoslaw&#39;s blog</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://blog.frankoslaw.top/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>From stock android ROM to mainline&#39;ish linux</title>
+      <link>https://blog.frankoslaw.top/posts/postmarketos/</link>
+      <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.frankoslaw.top/posts/postmarketos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gate OS. What it is? And how it came to be?</title>
+      <link>https://blog.frankoslaw.top/posts/gateos/</link>
+      <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.frankoslaw.top/posts/gateos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Minecraft server on old MIPS router.</title>
+      <link>https://blog.frankoslaw.top/posts/tplink/</link>
+      <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.frankoslaw.top/posts/tplink/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>New BIOS new problems.</title>
+      <link>https://blog.frankoslaw.top/posts/futuro-s900/</link>
+      <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.frankoslaw.top/posts/futuro-s900/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Porting custom linux distro to cursed DIY smartwatch.</title>
+      <link>https://blog.frankoslaw.top/posts/zegarson/</link>
+      <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.frankoslaw.top/posts/zegarson/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reinventing old wheel (exokernels) with rust for fun.</title>
+      <link>https://blog.frankoslaw.top/posts/osdev/</link>
+      <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.frankoslaw.top/posts/osdev/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>When life gives you chinese console, hack it to run linux</title>
+      <link>https://blog.frankoslaw.top/posts/odinlite/</link>
+      <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.frankoslaw.top/posts/odinlite/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
